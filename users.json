@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uname": "nguyenvana",
+      "password": "password123",
+      "url_profile": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
+      "short_bio": "Android Developer & Mobile Software Engineering student."
+    },
+    {
+      "id": 2,
+      "uname": "tranthib",
+      "password": "securepass456",
+      "url_profile": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      "short_bio": "UI/UX Designer passionate about creating clean user flows."
+    },
+    {
+      "id": 3,
+      "uname": "hoangminh",
+      "password": "mypassword789",
+      "url_profile": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61",
+      "short_bio": "Full-stack web developer working with PHP, Bootstrap, and MySQL."
+    },
+    {
+      "id": 4,
+      "uname": "phamthilan",
+      "password": "lanpassword1",
+      "url_profile": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80",
+      "short_bio": "Database administrator and data structure enthusiast."
+    },
+    {
+      "id": 5,
+      "uname": "quoctuanc",
+      "password": "tuanpass2026",
+      "url_profile": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "short_bio": "Git & GitHub workflow specialist, mobile app tester."
+    },
+    {
+      "id": 6,
+      "uname": "vuthihong",
+      "password": "hongpass321",
+      "url_profile": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+      "short_bio": "Lover of regional cuisine apps and frontend styling."
+    }
+  ]
+}
